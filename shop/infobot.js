@@ -26,9 +26,9 @@ return `ℒ⃝👾 *B O T  S T A T I S T I C*
 
 ℒ⃝👨‍💻 *C O N N E C T  W I T H  M E*
 
-⛎ Api : api.zeeoneofc.xyz
-♈ YouTube : youtube.com/c/zeeoneofc
-♉ Github : zeeone-ofc.github.io
+⛎ Bio : https://instabio.cc/himatsuki
+♈ YouTube : https://youtube.com/channel/UCp-5t9SrOQwXMU7iIjQfARg
+♉ Github : github.com/kamako011
 `}
 
 exports.infobot = infobot
