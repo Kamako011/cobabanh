@@ -146,8 +146,8 @@ lang = ind //language
 const Exif = require('./lib/exif')
 const exif = new Exif()
 
-zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
-ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
+zeksApikey = 'https://hardianto.xyz' //ganti pake apikey lu biar limitnya gk cepet abis 
+ApiZeks = 'https://hardianto.xyz' // regis disini klo mau dapat apikeynya
 thumbnail = thumb
 pp_bot = fs.readFileSync(`image/${thumbnail}`)
 pp_bot2 = fs.readFileSync(`image/${thumbnail}`)
