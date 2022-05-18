@@ -23,14 +23,14 @@ global.prefix = "."
 global.language = "ind"
 global.ownerNumberr = "17472773940"
 global.ownerbot = ['6281298309340@s.whatsapp.net','6281298309340@s.whatsapp.net','17853024668@s.whatsapp.net','6281211633829@s.whatsapp.net'] // .owner
-global.ownername = "𝚂𝙴𝙽𝙰 𝙷𝙸𝚆𝙰𝙼𝙰𝚁𝚄"
-global.botname = "𝚂𝙴𝙽𝙰-𝙱𝙾𝚃"
+global.ownername = "𝙷𝙰𝚁𝚅𝙰 𝙷𝙸𝚆𝙰𝙼𝙰𝚁𝚄"
+global.botname = "𝙷𝙰𝚁𝚅𝙰-𝙱𝙾𝚃"
 global.thumb = "thumbnail_1.jpg"
 global.thumbnail ="82cf240613621d3be1b02.jpg"
-global.fakethumb ="thumbnail_1.jpg"
-global.donasi ="donasi.jpg"
+global.fakethumb ="kagumi.jpg"
+global.donasi ="qr.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  SENABOT  」\nCreated By 𝚂𝙴𝙽𝙰 𝙷𝙸𝚆𝙰𝙼𝙰𝚁𝚄"
+global.fake = "「  HARVABOT  」\nCreated By 𝚂𝙴𝙽𝙰 𝙷𝙸𝚆𝙰𝙼𝙰𝚁𝚄"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
